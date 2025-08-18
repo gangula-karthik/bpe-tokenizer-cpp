@@ -48,3 +48,4 @@
 # debug information files
 *.dwo
 oscar_10k.txt
+.vscode/settings.json
