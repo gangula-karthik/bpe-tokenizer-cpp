@@ -16,6 +16,7 @@
 
 # Environment
 **/.venv
+**/build
 
 # Datasets
 **/hub/
